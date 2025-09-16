@@ -1,6 +1,6 @@
 # 🎨 Interactive Offer's card UI  
 
-This project was built as part of a frontend developer task to demonstrate **HTML, CSS, and JavaScript** skills.  
+This project was built as part of a frontend development task to demonstrate **HTML, CSS, and JavaScript** skills.  
 
 ## 📌 Features Implemented
 - Interactive **product offer card** with multiple options (1 Unit, 2 Units, 3 Units).  
@@ -11,3 +11,4 @@ This project was built as part of a frontend developer task to demonstrate **HTM
 ## 🛠️ Tech Stack
 - HTML, CSS, Vanilla Javascript
   
+
